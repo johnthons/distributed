@@ -1,1 +1,1 @@
-# distributed
+采用redis的setnx实现分布式锁
